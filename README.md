@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @karma659
-
-while(1)
-  {code;}
+         You can call me Akash
+         
+   while(1)
+  {
+  create projects;
+  }
   
 - 👀 I’m interested in creating apps
 - 🌱 I’m currently learning system design
