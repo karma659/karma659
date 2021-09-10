@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @karma659
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+while(1)
+  {code;}
+  
+- 👀 I’m interested in creating apps
+- 🌱 I’m currently learning system design
+- 💞️ I’m looking to collaborate on  website making ,machine learning 
+- 📫 How to reach me  karmakarakash659@gmail.com
+
 
 <!---
 karma659/karma659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
