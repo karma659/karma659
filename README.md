@@ -7,7 +7,6 @@
   }
   
 - 👀 I’m interested in creating apps
-- 🌱 I’m currently learning system design
 - 💞️ I’m looking to collaborate on  website making ,machine learning 
 - 📫 How to reach me  karmakarakash659@gmail.com
 
