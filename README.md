@@ -1,5 +1,5 @@
-  ### 👋 Hi there✨  I’m Akash Karmakar and I am a student of Jadavpur University.
-         You can call me  < AK /> 
+  ### 👋 Hi there✨  I’m Akash Karmakar and I am a student of Jadavpur University.     
+ <p><img align="left" src="https://komarev.com/ghpvc/?username=karma659&color=green" alt="karma659" /></p>     You can call me  < AK />  
          
 - 👀 I’m interested in creating apps
 - 💞️ I’m looking to collaborate on  website making ,machine learning 
@@ -36,3 +36,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karma659&show_icons=true&locale=en" alt="karma659" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karma659&" alt="karma659" /></p>
+
+
