@@ -1,15 +1,14 @@
-- 👋 ### Hi there✨  I’m Akash Karmakar and I am a student of Jadavpur University.
-         You can call me AK
+  ### 👋 Hi there✨  I’m Akash Karmakar and I am a student of Jadavpur University.
+         You can call me  < AK /> 
          
-   while(1)
-  {
-  create projects;
-  }
-  
 - 👀 I’m interested in creating apps
 - 💞️ I’m looking to collaborate on  website making ,machine learning 
 - 📫 How to reach me  karmakarakash659@gmail.com
 
+   while(1)
+  {
+  create projects;
+  }
 
 <!---
 karma659/karma659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
