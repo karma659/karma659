@@ -6,11 +6,6 @@
 - 💞️ I’m looking to collaborate on  website making ,machine learning 
 - 📫 How to reach me  karmakarakash659@gmail.com
 
-   while(1)
-  {
-  create projects;
-  }
-
 <!---
 karma659/karma659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -30,9 +25,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mongodb.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 </p>
-
-
-
 
 ####   
 
