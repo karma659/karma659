@@ -11,10 +11,8 @@ karma659/karma659 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karma659&hide=Jupyter%20Notebook&theme=dracula&layout=compact" alt="karma659" /></p> 
-
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='github' height='40'>](https://www.instagram.com/amourex_10/?next=%2F)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karmakarakash659/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AkashKa32300043)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karmakarakash659/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AkashKa32300043)  
 
 <br />
 <p align="left">
@@ -28,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ####   
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karma659&show_icons=true&locale=en&theme=dracula&layout=compact" alt="karma659" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=karma659&show_icons=true&locale=en&theme=dracula&layout=compact" alt="karma659" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karma659&theme=dracula&layout=compact" alt="karma659" /></p>
 
 
