@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ####   
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=karma659&show_icons=true&locale=en&theme=dracula&layout=compact" alt="karma659" />
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karma659&theme=dracula&layout=compact" alt="karma659" /></p>
 
 
