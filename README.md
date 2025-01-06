@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Connect with me:
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karmakarakash659/)  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='twitter' height='40'>](https://www.facebook.com/profile.php?id=100021707692261) 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karmakarakash659/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='twitter' height='40'>](https://www.facebook.com/profile.php?id=100021707692261) 
 
 <br />
 <p align="left">
