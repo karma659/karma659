@@ -1,4 +1,4 @@
- ### 👋 Hi there✨  I’m Akash Karmakar and I am a student of Jadavpur University. <p><img align="right" src="https://komarev.com/ghpvc/?username=karma659&color=green" alt="karma659" /></p> 
+ ### 👋 Hi there✨  I’m Akash Karmakar  <p><img align="right" src="https://komarev.com/ghpvc/?username=karma659&color=green" alt="karma659" /></p> 
 📫 reach me @ karmakarakash659@gmail.com
 
 <!---
